@@ -19,7 +19,7 @@ The goal is to transition from traditional paper-based record-keeping to a digit
 ## Screenshots
 
 ## 🏗️ Installation & Usage
-To run this project locally, ensure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) and [python3] (https://www.python.org/downloads/) installed.
+To run this project locally, ensure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) and [Python 3](https://www.python.org/downloads/) installed.
 
 1. **Clone the repository:**
    ```bash
